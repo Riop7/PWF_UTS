@@ -1,13 +1,13 @@
 ## Tentang Aplikasi
 Aplikasi Crud sederhana dengan mengolah data produk yang di rancang menggunakan framework laravel v.9.
 ## Dibuat Oleh
-<p align="center"><a href="public/img/rio.jpeg" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="public/img/rio.jpeg" target="_blank"><img src="public/img/rio.jpeg" width="400"></a></p>
 
 Nama    : Rio Pratama
 Kelas   : IF20B
 Nim     : 20416255201046
 
-
+##
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
